@@ -10,8 +10,8 @@ first_name: Michaela Guo Ying
 last_name: Lo
 
 # Status emoji
-status:
-  icon: 
+status: ''
+  icon: '' 
 
 # Is this the primary user of the site?
 superuser: true
