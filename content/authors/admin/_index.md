@@ -122,7 +122,6 @@ awards:
     summary: |
       Presentation: Examining the impacts of nickel mining on deforestation and well-being in Sualwesi, Indonesia 
 ---
-
 ## About Me
 
 Hello, my name is Michaela. I am a Postdoctoral researcher in DICE, University of Kent. My interests include land systems science, well-being, and food systems linked to social and environmental sustainability in forest landscapes. 
