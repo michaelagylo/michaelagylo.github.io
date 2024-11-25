@@ -10,8 +10,8 @@ first_name: Michaela Guo Ying
 last_name: Lo
 
 # Status emoji
-status: ''
-  icon: '' 
+status: 
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,7 +69,7 @@ Education:
     summary: |
       Score: Distinction 
         
-work:
+Work:
   - position: Independent Consultant
     company_name: Center for International Forestry and Research 
     date_start: 2017
@@ -91,20 +91,6 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Climbing
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Food
-        description: ''
-        percent: 100
-        icon: food
-
 languages:
   - name: English (fluent)
   - name: Bahasa Indonesia (working knowledge)
