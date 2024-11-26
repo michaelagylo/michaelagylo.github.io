@@ -59,21 +59,21 @@ Education:
     
   - area: Double MSc Sustainable Tropical Forestry (SUTROFOR)
     institution: Erasmus Mundus - University of Copenhagen and AgroParisTech, Montpellier
-    date_start: 2015
-    date_end: 2017
+    date_start: 2015-10
+    date_end: 2017-10
     
   - area: BSc Environmental Geography and Development
     institution: University of East Anglia
-    date_start: 2011
-    date_end: 2014
+    date_start: 2011-10
+    date_end: 2014-06
     summary: |
       Score: Distinction 
         
 Work:
   - position: Independent Consultant
     company_name: Center for International Forestry and Research 
-    date_start: 2017
-    date_end: 2021
+    date_start: 2017-05
+    date_end: 2021-01
     summary: |2-
       Responsibilities include:
       - Forest-water nexus 
@@ -82,8 +82,8 @@ Work:
     company_name: UN Food and Agriculture Organisation (FAO)
     company_url: ''
     company_logo: ''
-    date_start: 2013
-    date_end: 2014
+    date_start: 2013-06
+    date_end: 2014-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -103,7 +103,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Outstanding student presentation talk 
-    date: July 2023
+    date: 2023-07
     awarder: ATBC
     summary: |
       Presentation: Examining the impacts of nickel mining on deforestation and well-being in Sualwesi, Indonesia
