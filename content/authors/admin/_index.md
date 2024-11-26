@@ -24,7 +24,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Durrell Institute of Conservation and Ecology
+  - name: Durrell Institute of Conservation and Ecology (DICE)
     url: https://www.kent.ac.uk/durrell-institute-conservation-ecology
 
 # Social network links
@@ -111,4 +111,4 @@ awards:
 ## About Me
 
 Hello, my name is Michaela. I am a Postdoctoral Researcher in DICE, University of Kent. My interests include land systems science, well-being, and food systems linked to social and environmental sustainability in forest landscapes. 
-Outside of research, you will probably find me on a climbing wall, drinking coffee, writing some poems, or baking. 
+Outside of research, you will probably find me on a climbing wall, drinking coffee, or baking. 

@@ -50,6 +50,15 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      text: ""
+      filters:
+        folders:
+          - featured
+        exclude_featured: false
+  - block: collection
     content:
       title: Recent Publications
       text: ""
