@@ -1,16 +1,14 @@
 ---
-title: "An example journal article"
+title: "Nickel mining reduced forest cover in {Indonesia} but had mixed outcomes for well-being"
 authors:
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "Lead author"
+date: "2024-11-15T00:00:00Z"
+doi: "https://doi.org/10.1016/j.oneear.2024.10.010"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*One Earth"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Soaring demand for nickel to support the low-carbon transition is driving extensive mining in mineral-rich countries, but the environmental and social impacts of nickel mining remain underexplored. Here, we use a counterfactual approach to examine nickel-mining outcomes on forests and the well-being of nearby communities in Sulawesi, Indonesia—a region renowned for its biodiverse tropical forests and now a global center of nickel production. By examining changes across 7,721 villages between 2011 and 2018, we show that deforestation in nickel-mining villages nearly doubled. During the early stages of mining, environmental well-being, living standards, and education outcomes declined, but improvements were observed in health, infrastructure, and social relations. Environmental well-being continued to substantially deteriorate in the later stages of mining production, especially in villages with already high poverty. These findings highlight the environmental and social consequences of nickel mining, underscoring the need for greater accountability of local outcomes if the sector is to support a just and sustainable low-carbon transition.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Nickel mining amplified deforestation in Sulawesi, Indonesia. Mining led to mixed outcomes for the well-being of local communities.
 
 tags:
 - Source Themes
@@ -33,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
@@ -61,7 +59,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
