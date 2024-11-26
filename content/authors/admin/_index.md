@@ -94,7 +94,7 @@ Work:
 languages:
   - name: English (fluent)
   - name: Bahasa Indonesia (working knowledge)
-  - name: Mandarin (Casual conversation)
+  - name: Mandarin (casual conversation)
   - name: French (working knowledge)
 
 # Awards.
