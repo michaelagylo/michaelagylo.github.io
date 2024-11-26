@@ -1,5 +1,5 @@
 ---
-title: Penambangan nikel mengurangi tutupan hutan di Indonesia tetapi memiliki dampak yang beragam terhadap kesejahteraan
+title: Penambangan nikel mengurangi tutupan hutan di Indonesia tetapi memiliki dampak yang beragam terhadap kesejahteraan masyarakat lokal 
 authors:
 - Michaela GY Lo
 - Courtney L Morgans
@@ -10,7 +10,7 @@ authors:
 - Maria Voigt
 - Zoe G Davies
 - Matthew J Struebig
-date: '2024-01-01'
+date: '2024-11-15'
 doi: "https://doi.org/10.1016/j.oneear.2024.10.010"
 publishDate: '2024-11-26T04:53:21.956219Z'
 publication_types:
@@ -21,6 +21,8 @@ abstract: Permintaan yang melonjak untuk nikel guna mendukung transisi low-carbo
 
 # Summary. An optional shortened abstract.
 summary:  Penambangan nikel meningkatkan deforestasi di Sulawesi, Indonesia. Penambangan menghasilkan dampak yang beragam terhadap kesejahteraan masyarakat lokal.
+
+keywords: Dampak Evaluasi; Wallacea; Biodiversitas; Logam kritis
 
 
 # Featured image

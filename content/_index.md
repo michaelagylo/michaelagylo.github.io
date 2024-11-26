@@ -58,6 +58,9 @@ sections:
         folders:
           - featured
         exclude_featured: false
+    design:
+      view: article-grid
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -68,16 +71,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
   - block: collection
     id: news
     content:
