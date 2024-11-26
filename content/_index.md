@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Homepage"
 date: 2022-10-24
 type: landing
 
@@ -35,11 +35,18 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I recently completed my PhD, which explored the impacts of land-use change in Indonesia on forest ecosystems and the well-being of local communities. I recieved a scholarship from Erasmus Mundus to pursue a double Master's degree in Sustainable Tropical Forestry (SUTROFOR) from the University of Copenhagen, Denmark, and AgroParisTech Montpellier, France. My Bachelors degree was received from the University of East Anglia (UEA) in Environmental Geography and International Development. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        <p>Before starting my PhD, I was based at the Center for International Forestry Research (CIFOR) Headquarters in Bogor, Indonesia. My work primarily focused on the interface between forests and aquatic ecosystems across the tropics and what implications this has for food security and nutrition. My work has mostly been on socio-environmental issues within the context of tropical forestry in Indonesia. </p>
+
+        <p> <b> Equity & Diversity in research and academia. </b> I am actively involved in several initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector:</p>
+
+
+        * Member of the <i>Equality and Diversity Working Group</i> (EDWG) for the British Ecological Society (BES)
+
+        * Steering Committee member for <i>the Equity and Diversity for all Genders in Ecology</i> (EDGE) Gender Network, BES
+
+        * Postgraduate <i>Equity, Diversity, and Inclusion</i> (EDI) representative in the School of Anthropology and Conservation (SAC), University of Kent </p1>
     design:
       columns: '1'
   - block: collection
