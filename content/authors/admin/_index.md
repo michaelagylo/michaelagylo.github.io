@@ -106,7 +106,7 @@ awards:
     date: July 2023
     awarder: ATBC
     summary: |
-        Presentation: Examining the impacts of nickel mining on deforestation and well-being in Sualwesi, Indonesia
+      Presentation: Examining the impacts of nickel mining on deforestation and well-being in Sualwesi, Indonesia
 ---
 ## About Me
 
