@@ -52,8 +52,8 @@ Interests:
 Education:
   - area: PhD Biodiversity Management
     institution: University of Kent
-    date_start: January 2020
-    date_end: July 2024
+    date_start: 2020-01
+    date_end: 2024-07
     summary: |
       Thesis on _Examining the implications of land use change on forests and well-being in Indonesia_. 
     
@@ -72,7 +72,7 @@ Education:
 Work:
   - position: Independent Consultant
     company_name: Center for International Forestry and Research 
-    date_start: 2017-05
+    date_start: 2017-05-01
     date_end: 2021-01
     summary: |2-
       Responsibilities include:
