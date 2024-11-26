@@ -52,20 +52,20 @@ Interests:
 Education:
   - area: PhD Biodiversity Management
     institution: University of Kent
-    date_start: 2020-01
-    date_end: 2024-07
+    date_start: 2020-01-01
+    date_end: 2024-07-01
     summary: |
       Thesis on _Examining the implications of land use change on forests and well-being in Indonesia_. 
     
   - area: Double MSc Sustainable Tropical Forestry (SUTROFOR)
     institution: Erasmus Mundus - University of Copenhagen and AgroParisTech, Montpellier
-    date_start: 2015-10
-    date_end: 2017-10
+    date_start: 2015-10-01
+    date_end: 2017-10-01
     
   - area: BSc Environmental Geography and Development
     institution: University of East Anglia
-    date_start: 2011-10
-    date_end: 2014-06
+    date_start: 2011-10-01
+    date_end: 2014-06-01
     summary: |
       Score: Distinction 
         
@@ -73,7 +73,7 @@ Work:
   - position: Independent Consultant
     company_name: Center for International Forestry and Research 
     date_start: 2017-05-01
-    date_end: 2021-01
+    date_end: 2021-01-01
     summary: |2-
       Responsibilities include:
       - Forest-water nexus 
@@ -82,8 +82,8 @@ Work:
     company_name: UN Food and Agriculture Organisation (FAO)
     company_url: ''
     company_logo: ''
-    date_start: 2013-06
-    date_end: 2014-01
+    date_start: 2013-06-01
+    date_end: 2014-01-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -103,7 +103,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Outstanding student presentation talk 
-    date: 2023-07
+    date: 2023-07-01
     awarder: ATBC
     summary: |
       Presentation: Examining the impacts of nickel mining on deforestation and well-being in Sualwesi, Indonesia
