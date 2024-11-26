@@ -17,8 +17,7 @@ publication_types:
 - article-journal
 publication: '*One Earth*'
 
-abstract: Permintaan nikel untuk transisi energi rendah karbon mendorong penambangan besar di negara kaya mineral seperti Indonesia. Namun, dampak lingkungan dan sosialnya masih minim perhatian. Studi ini menganalisis 7.721 desa di Sulawesi antara 2011–2018 dan menemukan bahwa penambangan meningkatkan deforestasi hingga dua kali lipat. Pada tahap awal, lingkungan, standar hidup, dan pendidikan memburuk, meski layanan kesehatan dan infrastruktur membaik. Dampak lingkungan memburuk signifikan dalam jangka menengah, terutama di desa miskin.
-Temuan ini menunjukkan bahwa penambangan nikel memiliki dampak besar terhadap lingkungan dan kehidupan masyarakat. Oleh karena itu, diperlukan langkah-langkah yang lebih bertanggung jawab untuk memastikan industri ini benar-benar mendukung transisi rendah karbon yang adil dan berkelanjutan.
+abstract: Permintaan nikel untuk transisi energi rendah karbon mendorong penambangan besar di negara kaya mineral seperti Indonesia. Namun, dampak lingkungan dan sosialnya masih minim perhatian. Studi ini menganalisis 7.721 desa di Sulawesi antara 2011–2018 dan menemukan bahwa penambangan meningkatkan deforestasi hingga dua kali lipat. Pada tahap awal, lingkungan, standar hidup, dan pendidikan memburuk, meski layanan kesehatan dan infrastruktur membaik. Dampak lingkungan memburuk signifikan dalam jangka menengah, terutama di desa miskin. Temuan ini menunjukkan bahwa penambangan nikel memiliki dampak besar terhadap lingkungan dan kehidupan masyarakat. Oleh karena itu, diperlukan langkah-langkah yang lebih bertanggung jawab untuk memastikan industri ini benar-benar mendukung transisi rendah karbon yang adil dan berkelanjutan.
 
 
 
