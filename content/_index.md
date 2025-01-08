@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I recently completed my PhD, which explored the impacts of land-use change in Indonesia on forest ecosystems and the well-being of local communities. I recieved a scholarship from Erasmus Mundus to pursue a double Master's degree in Sustainable Tropical Forestry (SUTROFOR) from the University of Copenhagen, Denmark, and AgroParisTech Montpellier, France. My Bachelors degree was received from the University of East Anglia (UEA) in Environmental Geography and International Development. 
+        My current research involves using diverse impact evaluation methods to understand and measure the impacts of land-use interventions. My current focus is finding ways to support the nation-wide Community Forestry programme in Indonesia.  </p>
+        <p> I recently completed my PhD, which explored the impacts of land-use change in Indonesia on forest ecosystems and the well-being of local communities. I recieved a scholarship from Erasmus Mundus to pursue a double Master's degree in Sustainable Tropical Forestry (SUTROFOR) from the University of Copenhagen, Denmark, and AgroParisTech Montpellier, France.  </p> 
 
-        <p>Before starting my PhD, I was based at the Center for International Forestry Research (CIFOR) Headquarters in Bogor, Indonesia. My work primarily focused on the interface between forests and aquatic ecosystems across the tropics and what implications this has for food security and nutrition. My work has mostly been on socio-environmental issues within the context of tropical forestry in Indonesia. </p>
+        <p> Before starting my PhD, I was based at the Center for International Forestry Research (CIFOR) Headquarters in Bogor, Indonesia.
+        My work primarily focused on the interface between forests and aquatic ecosystems across the tropics and what implications this has for food security and nutrition. My work has mostly been on socio-environmental issues within the context of tropical forestry in Indonesia. </p>
 
         <p> <b> Equity & Diversity in research and academia. </b> I am actively involved in several initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector:</p>
 

@@ -111,4 +111,4 @@ awards:
 ## About Me
 
 Hello, my name is Michaela. I am a Postdoctoral Researcher in DICE, University of Kent. My interests include land systems science, well-being, and food systems linked to social and environmental sustainability in forest landscapes. 
-Outside of research, you will probably find me on a climbing wall, drinking coffee, or baking. 
+Outside of research, you will probably find me on a climbing wall, drinking coffee, or cooking up something tasty (at least 50% of the time). 
