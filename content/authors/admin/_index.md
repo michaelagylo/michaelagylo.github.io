@@ -123,9 +123,9 @@ As an <b> interdisciplinary researcher</b>, I am also interested in <b> diverse 
 </p>
 
 <p>  My current research projects include the following: 
-   a) Supporting land-use decisions to advancing sustainability goals (with a particular focus on mining and community forestry),
-   b) using participatory visual methods and other alternative research methodologies to generate evidence for addressing complex sustainability issues, and 
-   c) examining the human dimensions of forest and aquatic ecosystems in the tropics
+   * Supporting land-use decisions to advancing sustainability goals, with a particular focus on mining and community forestry,  
+   * Using participatory visual methods and other alternative research methodologies to generate evidence for addressing complex sustainability issues, and  
+   * Examining the human dimensions of forest and aquatic ecosystems in the tropics  
 </p>
 
 <p> I am actively involved in several <b> Equity & Diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: 
