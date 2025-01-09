@@ -110,6 +110,7 @@ awards:
     summary: |
       Presentation: Examining the impacts of nickel mining on deforestation and well-being in Sualwesi, Indonesia
 ---
+
 ## About Me
 <p>  
 I am a Postdoctoral Researcher in DICE, University of Kent. My research broadly centres
@@ -120,6 +121,7 @@ As an <b> interdisciplinary researcher</b>, I am also interested in <b> diverse 
         generating knowledge and evidence</b>, and how they can be used for supporting
         more sustainable and just natural resource management practices and policies.
 </p>
+
 <p>  My current research projects include the following: 
    a) Supporting land-use decisions to advancing sustainability goals (with a particular focus on mining and community forestry),
    b) using participatory visual methods and other alternative research methodologies to generate evidence for addressing complex sustainability issues, and 
