@@ -26,14 +26,9 @@ summary: Nickel mining amplified deforestation in Sulawesi, Indonesia. Mining le
 # links:
 # - name: ""
 #   url: ""
-url_ResearchGate: https://www.researchgate.net/publication/385857250_Nickel_mining_reduced_forest_cover_in_Indonesia_but_had_mixed_outcomes_for_well-being
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+- name: ResearchGate
+  url: https://www.researchgate.net/publication/385857250_Nickel_mining_reduced_forest_cover_in_Indonesia_but_had_mixed_outcomes_for_well-being
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
