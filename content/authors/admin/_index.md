@@ -111,24 +111,21 @@ awards:
       Presentation: Examining the impacts of nickel mining on deforestation and well-being in Sualwesi, Indonesia
 ---
 ## About Me
-
+<p>  
 I am a Postdoctoral Researcher in DICE, University of Kent. My research broadly centres
-on the <b> environmental and human dimensions of sustainable management in the forest tropics </b> and further seeks to understand
+on the <b> environmental and human dimensions of natural resource management in the forest tropics </b> and further seeks to understand
 the interventions, actions, and processes that lead 
 towards more sustainable and just future(s). 
 As an <b> interdisciplinary researcher</b>, I am also interested in <b> diverse ways of 
         generating knowledge and evidence</b>, and how they can be used for supporting
         more sustainable and just natural resource management practices and policies.
-
-<p>  My current research projects include the following: </p>
-   - Supporting land-use decisions to advancing sustainability goals (with a particular focus on mining and community forestry),
-   - Using participatory visual methods and other alternative research methodologies to generate evidence for addressing complex sustainability issues and 
-   - Examining the human dimensions of forest and aquatic ecosystems in the tropics
+</p>
+<p>  My current research projects include the following: 
+   a) Supporting land-use decisions to advancing sustainability goals (with a particular focus on mining and community forestry),
+   b) using participatory visual methods and other alternative research methodologies to generate evidence for addressing complex sustainability issues, and 
+   c) examining the human dimensions of forest and aquatic ecosystems in the tropics
 </p>
 
-<p> I am actively involved in several <b> Equity & Diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including:
-</p>
-   - Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES)
-   - Steering Committee member for the Equity and Diversity for all Genders in Ecology (EDGE) Gender Network, BES
-   - Member of the Women in Conservation Canterbury (WCCN) Network
+<p> I am actively involved in several <b> Equity & Diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: 
+Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES); steering Committee member for the Equity and Diversity for all Genders in Ecology (EDGE) Gender Network, BES; and member of the Women in Conservation Canterbury (WCCN) Network
 </p>
