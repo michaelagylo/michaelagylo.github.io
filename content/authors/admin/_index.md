@@ -126,7 +126,7 @@ As an <b> interdisciplinary researcher</b>, I am also interested in <b> diverse 
    - Examining the human dimensions of forest and aquatic ecosystems in the tropics
 </p>
 
-<p> I am actively involved in several <b> equity & diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including:
+<p> I am actively involved in several <b> Equity & Diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including:
 </p>
    - Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES)
    - Steering Committee member for the Equity and Diversity for all Genders in Ecology (EDGE) Gender Network, BES
