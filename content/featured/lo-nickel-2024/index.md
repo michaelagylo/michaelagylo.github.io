@@ -32,4 +32,4 @@ image:
 ---
 
 You can download the pdf of the article from [ResearchGate](https://www.researchgate.net/publication/385857250_Nickel_mining_reduced_forest_cover_in_Indonesia_but_had_mixed_outcomes_for_well-being),
-access the code repository from [Zenodo](https://zenodo.org/records/14032310), and access the the scientific article on the journal website [One Earth](https://www.cell.com/one-earth/fulltext/S2590-3322(24)00534-7).
+access the code repository from [Zenodo](https://zenodo.org/records/14032310), and access the the scientific article on the journal website from [One Earth](https://www.cell.com/one-earth/fulltext/S2590-3322(24)00534-7).
