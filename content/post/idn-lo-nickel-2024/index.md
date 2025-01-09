@@ -14,7 +14,6 @@ image:
   caption: 'Figure credit: Michaela GY LO'
   focal_point: ""
   preview_only: false
-  
 ---
 
 Artikel kami yang mengukur dampak penambangan nikel terhadap hutan dan kesejahteraan masyarakat daerah telah diterbitkan di [One Earth](https://www.cell.com/one-earth/fulltext/S2590-3322(24)00534-7). Berikut abstrak dan temuan utama dalam Bahasa Indonesia.
