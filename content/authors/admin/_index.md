@@ -44,10 +44,10 @@ profiles:
 
 Interests:
   - Land-use change
-  - Tropical Forestry
+  - Tropical forestry
   - Socio-ecological change
   - Impact evaluation methods
-  - Inter- and Transdisciplinarity
+  - Inter- and transdisciplinarity
 
 Education:
   - area: PhD Biodiversity Management
@@ -62,7 +62,7 @@ Education:
     date_start: 2015-10-01
     date_end: 2017-10-01
     
-  - area: BSc Environmental Geography and Development
+  - area: BSc Environmental Geography and Global Development
     institution: University of East Anglia
     date_start: 2011-10-01
     date_end: 2014-06-01
@@ -110,5 +110,32 @@ awards:
 ---
 ## About Me
 
-Hello, my name is Michaela. I am a Postdoctoral Researcher in DICE, University of Kent. My interests include land systems science, well-being, and food systems linked to social and environmental sustainability in forest landscapes. 
-Outside of research, you will probably find me on a climbing wall, drinking coffee, or cooking up something tasty (at least 50% of the time). 
+I am a Postdoctoral Researcher in DICE, University of Kent. My research broadly centres
+on the <b> environmental and social changes in the forest tropics </b> and further seeks to understand
+the interventions, actions, and processes that lead 
+towards more <b> sustainable and just future(s).</b> 
+As an <b> interdisciplinary researcher</b>, I am also interested in diverse ways of 
+        generating knowledge and evidence, and how they can be used for supporting
+        more sustainable and just natural resource management practices and policies.
+
+<p>  My current research projects include 
+a) supporting land-use decisions to advancing sustainability goals (with a particular focus on mining and community forestry),
+b) Using participatory visual methods and other alternative research methodologies to generate evidence for addressing complex sustainability issues and 
+c) examining the human dimensions of forest and aquatic ecosystems in the tropics
+</p>
+
+<p> Before starting my PhD, I was based at the Center for International
+Forestry Research (CIFOR) Headquarters in Bogor, Indonesia.
+My work primarily focused on the interface between forests and aquatic 
+ecosystems across the tropics and what implications this has for food 
+security and nutrition.
+</p>
+
+<p> I am actively involved in several <b> equity & diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector:</p>
+
+        * Member of the <i>Equality and Diversity Working Group</i> (EDWG) for the British Ecological Society (BES)
+
+        * Steering Committee member for <i>the Equity and Diversity for all Genders in Ecology</i> (EDGE) Gender Network, BES
+
+        * Postgraduate <i>Equity, Diversity, and Inclusion</i> (EDI) representative in the School of Anthropology and Conservation (SAC), University of Kent </p1>
+</p>
