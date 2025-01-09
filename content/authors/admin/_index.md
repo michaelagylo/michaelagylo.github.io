@@ -117,26 +117,19 @@ on the <b> environemntal and human dimensions of sustainable management in the f
 the interventions, actions, and processes that lead 
 towards more sustainable and just future(s). 
 As an <b> interdisciplinary researcher</b>, I am also interested in <b> diverse ways of 
-        generating knowledge and evidence </b>, and how they can be used for supporting
+        generating knowledge and evidence</b>, and how they can be used for supporting
         more sustainable and just natural resource management practices and policies.
 
 <p>  My current research projects include the following: </p>
-* supporting land-use decisions to advancing sustainability goals (with a particular focus on mining and community forestry),
-* Using participatory visual methods and other alternative research methodologies to generate evidence for addressing complex sustainability issues and 
-* Examining the human dimensions of forest and aquatic ecosystems in the tropics
-</p>
-
-<p> Before starting my PhD, I was based at the Center for International
-Forestry Research (CIFOR) Headquarters in Bogor, Indonesia.
-My work primarily focused on the interface between forests and aquatic 
-ecosystems across the tropics and what implications this has for food 
-security and nutrition.
+   * supporting land-use decisions to advancing sustainability goals (with a particular focus on mining and community forestry),
+   * Using participatory visual methods and other alternative research methodologies to generate evidence for addressing complex sustainability issues and 
+   * Examining the human dimensions of forest and aquatic ecosystems in the tropics
 </p>
 
 <p> I am actively involved in several <b> equity & diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector.
 </p>
-* Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES)
-* Steering Committee member for the Equity and Diversity for all Genders in Ecology (EDGE) Gender Network, BES
-* Postgraduate Equity, Diversity, and Inclusion (EDI) representative in the School of Anthropology and Conservation (SAC), University of Kent
-* Member of the Women in Conservation Canterbury (WCCN) Network
+   * Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES)
+   * Steering Committee member for the Equity and Diversity for all Genders in Ecology (EDGE) Gender Network, BES
+   * Postgraduate Equity, Diversity, and Inclusion (EDI) representative in the School of Anthropology and Conservation (SAC), University of Kent
+   * Member of the Women in Conservation Canterbury (WCCN) Network
 </p>
