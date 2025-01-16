@@ -1,12 +1,12 @@
 ---
 title: Weighing the green cost:How nickel mining in Indonesia impacts forests and local communities
 summary: We publish an blog article in the Conversation-Indonesia sharing results and three key recommendations to supporting more sustainablea and just nickel mining practices 
-date: 2024-16-25
+date: '2025-16-01'
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: (Sesan13/Shutterstock)
 
 authors:
   - admin
@@ -23,4 +23,4 @@ This boom, however, takes a toll on nickel-rich regions like Sulawesi, threateni
 
 Our recent study raises questions about the sustainability of nickel mining practices as we highlight its environmental and social impacts in Sulawesi, based on data from 7,721 villages.
 
-Read more at the Conversation Indonesia [website](https://theconversation.com/weighing-the-green-cost-how-nickel-mining-in-indonesia-impacts-forests-and-local-communities-246259)
+Read more on the Conversation Indonesia [website](https://theconversation.com/weighing-the-green-cost-how-nickel-mining-in-indonesia-impacts-forests-and-local-communities-246259)
