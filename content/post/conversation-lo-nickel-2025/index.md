@@ -1,12 +1,12 @@
 ---
 title: Weighing the green cost:How nickel mining in Indonesia impacts forests and local communities
 summary: We publish an blog article in the Conversation-Indonesia sharing results and three key recommendations to supporting more sustainablea and just nickel mining practices 
-date: '2025-16-01'
+date: '2025-01-16'
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: (Sesan13/Shutterstock)
+  caption: 'Sesan13/Shutterstock'
 
 authors:
   - admin
