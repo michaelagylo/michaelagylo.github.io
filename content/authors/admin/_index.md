@@ -113,20 +113,18 @@ awards:
 
 ## About Me
 <p>  
-I am a Postdoctoral Researcher in DICE, University of Kent. My research broadly centres
+I am a Postdoctoral Researcher at the Durrell Institute of Ecology and Conservation (DICE), University of Kent. My research broadly centres
 on the <b> environmental and human dimensions of natural resource management in the forest tropics </b> and further seeks to understand
 the interventions, actions, and processes that lead 
-towards more sustainable and just future(s). 
-As an <b> interdisciplinary researcher</b>, I am also interested in <b> diverse ways of 
-        generating knowledge and evidence</b>, and how they can be used for supporting
-        more sustainable and just natural resource management practices and policies.
+towards more sustainable and just future(s). Most of my empirical research has taken place in Indonesia. 
 </p>
 
-<p>  My current research projects include the following: </p>
+<p>  My current research interests cover two broad domains: </p>
 
-<p> - Supporting land-use decisions to advancing sustainability goals, with a particular focus on mining and community forestry </p>
-<p> - Using participatory visual methods and other alternative research methodologies to generate evidence for addressing complex sustainability issues, and  </p>
-<p> - Examining the human dimensions of forest and aquatic ecosystems in the tropics  
+<p> <b> - </b> Supporting land-use decisions and interventions that advance sustainability goals, with a specific emphasis on mining and community forestry. </p>
+<p> <b> - </b> Investigating the human dimensions of tropical forest and aquatic ecosystems, particularly their role in sustainable food systems. </p>
+
+<p> As an <b> interdisciplinary researcher </b>, I am also interested in exploring different types of methods to generate diverse evidence to address complex sustainability challenges.
 </p>
 
 <p> I am actively involved in several <b> Equity & Diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: 
