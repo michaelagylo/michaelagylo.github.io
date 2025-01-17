@@ -128,5 +128,5 @@ towards more sustainable and just future(s). Most of my empirical research has t
 </p>
 
 <p> I am actively involved in several <b> Equity & Diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: 
-Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES); steering Committee member for the Equity and Diversity for all Genders in Ecology (EDGE) Gender Network, BES; and member of the Women in Conservation Canterbury (WCCN) Network
+Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES); steering Committee member for the Equity and Diversity for all Genders in Ecology Gender Network [(EDGE)](https://www.britishecologicalsociety.org/content/join-the-edge-network/), BES; and member of the Women in Conservation Canterbury (WCCN) Network
 </p>
