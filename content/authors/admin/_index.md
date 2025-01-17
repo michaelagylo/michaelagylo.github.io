@@ -116,17 +116,18 @@ awards:
 I am a Postdoctoral Researcher at the Durrell Institute of Ecology and Conservation (DICE), University of Kent. My research broadly centres
 on the <b> environmental and human dimensions of natural resource management in the forest tropics </b> and further seeks to understand
 the interventions, actions, and processes that lead 
-towards more sustainable and just future(s). Most of my empirical research has taken place in Indonesia. 
+towards more sustainable and just future(s).
 </p>
 
 <p>  My current research interests cover two broad domains: </p>
 
-<p> <b> - </b> Supporting land-use decisions and interventions that advance sustainability goals, with a specific emphasis on mining and community forestry. </p>
-<p> <b> - </b> Investigating the human dimensions of tropical forest and aquatic ecosystems, particularly their role in sustainable food systems. </p>
+<p> - Supporting land-use decisions and interventions that advance sustainability goals, with a specific emphasis on mining and community forestry. </p>
+<p> - Investigating the human dimensions of tropical forest and aquatic ecosystems, particularly their role in sustainable food systems. </p>
 
 <p> As an <b> interdisciplinary researcher </b>, I am also interested in exploring different types of methods to generate diverse evidence to address complex sustainability challenges.
 </p>
 
 <p> I am actively involved in several <b> Equity & Diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: 
-Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES); steering Committee member for the Equity and Diversity for all Genders in Ecology Gender Network [(EDGE)](https://www.britishecologicalsociety.org/content/join-the-edge-network/), BES; and member of the Women in Conservation Canterbury (WCCN) Network
+Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES); steering Committee member for the Equity and Diversity for all Genders in Ecology Gender Network [(EDGE)](https://www.britishecologicalsociety.org/content/join-the-edge-network/), BES;
+ and member of the Women in Conservation Canterbury (WCCN) Network
 </p>
