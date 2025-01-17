@@ -113,13 +113,12 @@ awards:
 
 ## About Me
 <p>  
+
 I am a Postdoctoral Researcher at the Durrell Institute of Ecology and Conservation (DICE), University of Kent. My research broadly centres
 on the <b> environmental and human dimensions of natural resource management in the forest tropics </b> and further seeks to understand
-the interventions, actions, and processes that lead 
-towards more sustainable and just future(s).
-</p>
+the interventions, actions, and processes that lead towards more sustainable and just future(s). </p>
 
-<p>  My current research interests cover two broad domains: </p>
+<p> My current research interests cover two broad domains: </p>
 
 <p> - Supporting land-use decisions and interventions that advance sustainability goals, with a specific emphasis on mining and community forestry. </p>
 <p> - Investigating the human dimensions of tropical forest and aquatic ecosystems, particularly their role in sustainable food systems. </p>
