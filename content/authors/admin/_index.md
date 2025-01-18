@@ -131,8 +131,7 @@ the interventions, actions, and processes that lead towards more sustainable and
 <p> - Supporting land-use decisions and interventions that advance sustainability goals, with a specific emphasis on mining and community forestry. </p>
 <p> - Investigating the human dimensions of tropical forest and aquatic ecosystems, particularly their role in sustainable food systems. </p>
 
-<p> As an <b> interdisciplinary researcher </b>, I am also interested in exploring different types of methods to generate diverse evidence to address complex sustainability challenges.
-</p>
+<p> As an <b> interdisciplinary researcher </b>, I am also interested in exploring different types of methods to generate diverse evidence to address complex sustainability challenges. </p>
 
 <p> I am actively involved in several <b> Equity & Diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: 
 Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES); steering Committee member for the Equity and Diversity for all Genders in Ecology Gender Network [(EDGE)](https://www.britishecologicalsociety.org/content/join-the-edge-network/), BES;
