@@ -72,6 +72,14 @@ Education:
       Score: Distinction 
         
 Work:
+  - position: Postdoctoral Researcher
+    company_name: DICE, University of Kent 
+    date_start: 2024-04-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Impact evaluation of Social Forestry programme, Indonesia 
+      - The human dimensions of sustainable food systems
   - position: Independent Consultant
     company_name: Center for International Forestry and Research 
     date_start: 2017-05-01
