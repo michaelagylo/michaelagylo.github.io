@@ -40,7 +40,8 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=m_0s2K0AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/](https://orcid.org/0000-0001-9094-2795
+    url: https://orcid.org/0000-0001-9094-2795 
+    
 
 Interests:
   - Land-use change
