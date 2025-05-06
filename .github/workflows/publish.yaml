@@ -53,6 +53,15 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
+      
+# 👇 Fix: Force resolution of upload-artifact
+    - name: Pre-fetch upload-artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: dummy-artifact
+        path: ./README.md
+      if: false
+      
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2.0.0
       with:
