@@ -103,11 +103,16 @@ Work:
 
 # Skills
 languages:
-  - name: English (fluent)
-  - name: Bahasa Indonesia (working knowledge)
-  - name: Mandarin (casual conversation)
-  - name: French (working knowledge)
+  - name: English (Fluent)
+    percent: 100
+  - name: Bahasa Indonesia (Professional knowledge)
+    percent: 60
+  - name: Mandarin (Working knowledge)
+    percent: 40
+  - name: French (Working knowledge)
+    percent: 40
 
+    
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
