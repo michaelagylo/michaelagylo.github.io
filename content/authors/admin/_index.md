@@ -11,7 +11,7 @@ last_name: Lo
 
 # Status emoji
 status: 
-  icon: 
+  icon: star
 
 # Is this the primary user of the site?
 superuser: true
@@ -111,7 +111,6 @@ languages:
     percent: 40
   - name: French (Working knowledge)
     percent: 40
-
     
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -140,6 +139,4 @@ the interventions, actions, and processes that lead towards more just and sustai
 <p> As an <b> interdisciplinary researcher</b>, I am also interested in exploring different types of methods to generate diverse evidence to address complex sustainability challenges. </p>
 
 <p> I am actively involved in several <b> Equity & Diversity </b> initiatives that aim to address the unequal barriers and risks in fieldwork, academia, and the broader environmental sector, including: 
-Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES); steering Committee member for the Equity and Diversity for all Genders in Ecology Gender Network (EDGE), BES;
- and member of the Women in Conservation Canterbury (WCCN) Network
-</p>
+Member of the Equality and Diversity Working Group (EDWG) for the British Ecological Society (BES) and steering Committee member for the Equity and Diversity for all Genders in Ecology Gender Network (EDGE), BES.
