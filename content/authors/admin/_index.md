@@ -11,7 +11,7 @@ last_name: Lo
 
 # Status emoji
 status: 
-  icon: star
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -97,9 +97,8 @@ Work:
     date_end: 2014-01-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Communications intern for the Forest and Farm Facility (FFF)
+      - Support the OpenForis Collect Earth Application
 
 # Skills
 languages:
