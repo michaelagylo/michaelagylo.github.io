@@ -19,7 +19,7 @@ authors:
 - Emeline Topp
 - Améline Vallet
 - Gretchen Walters
-date: -01-01
+date: 2025-01-01
 publishDate: '2025-05-05T15:34:10.161926Z'
 publication_types:
 - article-journal
