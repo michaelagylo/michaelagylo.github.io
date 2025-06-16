@@ -1,6 +1,6 @@
 ---
 title: Research linked to harmful nickel mining activities in Raja Ampat, Indonesia
-date: '2025-06-16'
+date: '2025-01-16'
 
 summary: The BBC interviewed us to comment on the nickel mining activities occurring in the biodiverse region in Rapa Ampat, Indonesia
 
