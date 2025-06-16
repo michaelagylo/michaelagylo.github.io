@@ -17,6 +17,7 @@ authors:
 tags:
   - Academic
   - Impact Evaluation
+  - Nickel mining
 
 ---
 
