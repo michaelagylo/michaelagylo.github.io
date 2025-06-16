@@ -56,7 +56,7 @@ sections:
     id: news
     content:
       title: Recent News
-      subtitle: ''
+      subtitle: News and personal blogs
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
