@@ -19,9 +19,7 @@ tags:
 
 ---
 The BBC recently reported on the expansion of nickel mining Raja Ampat, located in Indonesia's West Papua province. 
-In response, environmental campaigners within Indonesia mobilized a successful public pressure campaign, resulting in four of the five mining licences being [revoked](https://globalwitness.org/en/campaigns/transition-minerals/indonesias-amazon-of-the-seas-threatened-by-ev-nickel-rush/). 
-
-This development in West Papua mirrors similar patterns seen in Sulawesi, just to the west of the region, where communities are also grappling with the localised impacts of nickel mining. These challenges are not isolated to West Papua, showing that these challenges are not isolated to this region. 
+In response, environmental campaigners within Indonesia mobilized a successful public pressure campaign, resulting in four of the five mining licences being [revoked](https://globalwitness.org/en/campaigns/transition-minerals/indonesias-amazon-of-the-seas-threatened-by-ev-nickel-rush/). This development in West Papua mirrors similar patterns seen in Sulawesi, just to the west of the region, where communities are also grappling with the localised impacts of nickel mining. These challenges are not isolated to West Papua, showing that these challenges are not isolated to this region. 
 Across Indonesia—in places like [Bajau communities in Kabaena island](https://www.bbc.co.uk/news/world-asia-66131451) and [Obi island](https://thegeckoproject.org/articles/clean-cars-poisoned-water/)—as well as internationally, such as more recently in the [Philippines](https://www.newmandala.org/extracting-value-losing-ground-the-critical-minerals-boom-in-palawan/), the effects of mining on local populations are deeply concerning.
 
 > Indonesia is positioning itself globally in the nickel market...but it's important not to forget what's happening locally.
