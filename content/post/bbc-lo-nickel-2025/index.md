@@ -2,7 +2,7 @@
 title: Research linked to harmful nickel mining activities in Raja Ampat, Indonesia
 date: '2025-06-16'
 
-summary: The BBC interviewed us to comment on the nickel mining activities occurring in the biodiverse region in Rapa Ampat, Indonesia
+summary: We were interviewed by BBC news to comment on the recent nickel mining activities occurring in the biodiverse region in Rapa Ampat, Indonesia
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -24,7 +24,4 @@ In response, environmental campaigners within Indonesia mobilized a successful p
 
 Across Indonesia, in places like [Bajau communities in Kabaena island](https://www.bbc.co.uk/news/world-asia-66131451) and [Obi island](https://thegeckoproject.org/articles/clean-cars-poisoned-water/), as well as internationally, such as more recently in the [Philippines](https://www.newmandala.org/extracting-value-losing-ground-the-critical-minerals-boom-in-palawan/), the effects of mining on local populations are deeply concerning.
 
-> Indonesia is positioning itself globally in the nickel market...but it's important not to forget what's happening locally.
-
-While the progress in Papua is encouraging, similar accountability has yet to materialise elsewhere. We are not calling for an outright ban on nickel mining. 
-However, any mining activity must be preceded by transparency, genuine accountability, and a foundation of trust with the local communities who are most affected, as we outline in our article for [The Conservation](https://theconversation.com/weighing-the-green-cost-how-nickel-mining-in-indonesia-impacts-forests-and-local-communities-246259).
+While the progress in Papua is encouraging, similar accountability has yet to materialise elsewhere. In our article in [The Conservation](https://theconversation.com/weighing-the-green-cost-how-nickel-mining-in-indonesia-impacts-forests-and-local-communities-246259), we outline several ways to ensure that the nickel mining sector is just and sustainable. 
